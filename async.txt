@@ -1,0 +1,11 @@
+def fn()
+    cpu
+    cpu
+    io
+    cpu
+    cpu
+
+u1 -> cpu, cpu, io
+u2 -> cpu, cpu, io, cpu, cpu
+u3 -> cpu, cpu, io
+u4 -> cpu, cpu, io
